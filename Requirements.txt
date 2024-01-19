@@ -1,0 +1,7 @@
+numpy
+pandas
+requests
+jsons
+queue
+webbrowser
+tkinter
